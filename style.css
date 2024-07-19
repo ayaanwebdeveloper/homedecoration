@@ -1,0 +1,56 @@
+.logo {
+    margin-left: 550px;
+    margin-top: 5px;
+    width: 200px;
+    height: 150px;
+    background-color: white;
+    margin-bottom: 20px;
+    
+    }
+    .all {
+        width: 100%;
+        height: 100%;
+    
+    
+        
+    }
+    ul {
+        border-top: 2px solid;
+        border-bottom: 1px solid;
+        width: 50%;
+        margin: auto;
+    }
+    li {
+        display: inline-block;
+        padding: 15px 30px;
+    }
+    body {
+        background-image: url(img/background.png);
+        color: white;
+      
+        background-size: cover ;
+        
+        
+
+    }
+    .TOP {
+      margin-top: 20px;
+      margin-left: 280px;
+        font-size: 70px;
+  
+    }
+    .pre {
+        margin-left: 500px;
+    }
+    .watch {
+   margin: 20px;
+border: 2px solid skyblue;
+color: white;
+       width: 280px;
+   height: 40px;
+   font-size: 20px;
+   border-radius: 20px;
+   cursor: pointer;
+   background: transparent;
+    }
+
